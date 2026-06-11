@@ -16,12 +16,7 @@ Implements prime number checking using user-defined functions.
 
 ### 3. Sum of Prime Numbers from 2 to N
 Calculates the sum of all prime numbers within a given range.
-
-### 4. Prime Numbers in a Range
-Displays all prime numbers between two numbers.
-
-### 5. Count Prime Numbers
-Counts how many prime numbers exist within a specified range.
+how many prime numbers exist within a specified range.
 
 ---
 
@@ -45,6 +40,10 @@ These programs were created for learning and practicing C++ programming concepts
 ## Author
 
 Kalsoom
+
+---
+
+## Contact 
 
 GitHub: https://github.com/kalsoomlachi99-spec
 
